@@ -1,0 +1,17 @@
+<!--{{> head }}
+
+<form action="/insert" method="POST">
+    <label for="PhoneBrand">PhoneBrand</label>
+    <input type="text" name="PhoneBrand" placeholder="PhoneBrand">
+     <label for="Variant">Variant</label>
+    <input type="text" name="PhoneBrand" placeholder="Variant">
+     <label for="Specs">Specs</label>
+    <input type="text" name="Specs" placeholder="Specs">
+     <label for="Mah">Mah</label>
+    <input type="text" name="Mah" placeholder="Mah">
+     <label for="StorageCapacity">StorageCapacity</label>
+    <input type="text" name="StorageCapacity" placeholder="StorageCapacity">
+     <label for="Color">Color</label>
+    <input type="text" name="Color" placeholder="Color">
+
+</form>-->
